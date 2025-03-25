@@ -1,3 +1,9 @@
+# Ignorarse a sí mismo
+.gitignore
+
+# Ignorar los archivos que crea Obsidian
+.obsidian/
+
 # Ignorar entorno virtual
 .venv/
 
