@@ -2,7 +2,7 @@
 .venv/
 
 # Ignorar la carpeta de salida de MkDocs
-site/
+buquesArmada/site/
 
 # Ignorar archivos de Python compilados
 *.pyc
