@@ -1,2 +1,2 @@
-# Buques Armada Española (2025)
+# Inicio
 Página con información sobre los Buques de la Armada Española en la actualidad (2025)

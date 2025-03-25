@@ -1,1 +1,9 @@
 site_name: Buques Armada Española
+
+theme:
+    name: 'material'
+
+plugins:
+  - search
+  - roamlinks
+  - mermaid2
