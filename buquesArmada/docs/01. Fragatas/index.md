@@ -12,3 +12,7 @@ En la Armada Española tenemos 2 clases de Fragatas:
 - Clase Álvaro de Bazán (F-100) -- Ferrol
 
 - Clase Santa María (F-80) -- Rota
+
+Dentro de unos años (se espera sobre 2028) llegará una nueva clase de fragatas a Rota para sustituir la clase F-80 que ya cuenta con 3 décadas de servicio: la Clase Bonifaz (F-110).
+
+<img src="../img/fragatas.png"></img>

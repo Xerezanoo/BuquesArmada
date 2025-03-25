@@ -7,12 +7,24 @@ Estas fragatas son:
 
 - Santa María (F-81)
 
+<img src="../../img/f-81.jpg"></img>
+
 - Victoria (F-82)
+
+<img src="../../img/f-82.jpg"></img>
 
 - Numancia (F-83)
 
+<img src="../../img/f-83.jpg"></img>
+
 - Reina Sofía (F-84)
+
+<img src="../../img/f-84.jpg"></img>
 
 - Navarra (F-85)
 
+<img src="../../img/f-85.jpg"></img>
+
 - Canarias (F-86)
+
+<img src="../../img/f-86.jpg"></img>
