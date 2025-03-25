@@ -9,3 +9,8 @@ buquesArmada/site/
 *.pyo
 *.pyd
 __pycache__/
+
+# Ignorar scripts para facilitar el uso de MkDocs
+buquesArmada/nav.py
+buquesArmada/nav.yml
+buquesArmada/publica.sh
