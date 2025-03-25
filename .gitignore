@@ -1,0 +1,11 @@
+# Ignorar entorno virtual
+.venv/
+
+# Ignorar la carpeta de salida de MkDocs
+site/
+
+# Ignorar archivos de Python compilados
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
