@@ -11,4 +11,4 @@ En la Armada Española, tenemos 3 buques anfibios y los 3 se encuentran en Rota:
 - **Buque de Asalto Anfibio 'Galicia' (L-51)**
 - **Buque de Asalto Anfibio 'Castilla' (L-52)**
 
-<img src="../../img/anfibios.png"></img>
+<img src="../img/anfibios.png"></img>
