@@ -1,10 +1,10 @@
 # Fragatas Clase Álvaro de Bazán (F-100)
-Las fragatas F-100, con una dotación de unas 200 personas, son buques de defensa aérea de largo alcance, con capacidades avanzadas en guerra antisubmarina y guerra electrónica.
+Las fragatas F-100, con una dotación de unas **200 personas**, son buques de defensa aérea de largo alcance, con capacidades avanzadas en guerra antisubmarina y guerra electrónica.
 
 Están equipadas con el sistema de misiles AEGIS, que les permite realizar defensa aérea en zonas amplias y coordinarse con otras unidades para interceptar amenazas.
 
 
-Se encuentran en el Arsenal Militar de Ferrol, en La Coruña.
+Se encuentran en el **Arsenal Militar de Ferrol, en La Coruña**.
 
 Estas fragatas son:
 

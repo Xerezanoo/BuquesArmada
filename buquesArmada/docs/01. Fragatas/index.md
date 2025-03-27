@@ -1,5 +1,5 @@
 # Fragatas
-Las fragatas son buque de guerra multifuncionales. Están diseñados principalmente para misiones de defensa aérea, guerra antisubmarina, patrullaje y escolta.
+Las fragatas son **buques de guerra multifuncionales**. Están diseñados principalmente para misiones de defensa aérea, guerra antisubmarina, patrullaje y escolta.
 
 Son buques **rápidos y ágiles**, con una capacidad de maniobra avanzada, ideales para operaciones en mar abierto y en zonas costeras.
 

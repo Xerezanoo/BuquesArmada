@@ -1,5 +1,5 @@
 # LHD Juan Carlos I (L-61)
-El LHD Juan Carlos I (L-61) es el mayor buque de la Armada Española. Cuenta con una dotación de 295 personas, y en misiones importantes ha llegado a llevar hasta 1500 personas en él.
+El LHD Juan Carlos I (L-61) es el mayor buque de la Armada Española. Cuenta con una dotación de **295 personas**, y en misiones importantes ha llegado a llevar hasta 1500 personas en él.
 
 Tiene capacidad para poder transportar y operar con hasta 30 aeronaves entre helicópteros medios y pesados en el perfil de operaciones anfibias, o bien entre 10 y 12 aviones F35B o AV-8B+.
 
@@ -19,7 +19,7 @@ Cumple una doble función como buque anfibio y portaeronaves y se ha diseñado c
 
 - Como buque para **operaciones no bélicas** (apoyo humanitario, evacuación de personal de zonas de crisis, buque-hospital en zonas afectadas por catástrofes...)
 
-Se encuentra en la Base Naval de Rota, en la Bahía de Cádiz.
+Se encuentra en la **Base Naval de Rota, en la Bahía de Cádiz**.
 
 <img src="../../img/lhd1.jpg"></img>
 
