@@ -19,14 +19,16 @@ Depende del tipo de patrullero navegará más o menos.
 
 En la Armada Española, tenemos varias clases de patrulleros repartidos por España:
 
-- **Patrulleros Clase Anaga (P-20)** -- San Fernando / Cádiz / Marín
+- **Patrulleros Clase Anaga (P-20)** -- Málaga / Cádiz / Marín
 
 - **Patrulleros de Cooperación Pesquera (P-60)** -- Cartagena / Ferrol
 
-- **Patrulleros Clase Serviola (P-70)** -- Ferrol / Cádiz
+- **Patrulleros Clase Serviola (P-70)** -- Ferrol / Cádiz / Cartagena
 
 - **Patrulleros Clase Toralla (P-80)** -- Cartagena / Ceuta / Melilla
 
 - **Patrulleros de Vigilancia Costera (P-110)** -- Ayamonte
 
 - **Patrulleros de Vigilancia Interior (P-200)** -- Tui
+
+<img src="../img/patrulleros.JPG"></img>
